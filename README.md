@@ -97,7 +97,7 @@
 <details>
   <summary><b>:zap: Languages Used</b></summary>
 
-  <img align="left" alt="Ahmed's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7oSkaaa&layout=compact&hide_border=true&theme=radical" />
+  <img align="left" alt="Williams GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IAmWillZero&layout=compact&hide_border=true&theme=radical" />
 
 </details>
 </details>
