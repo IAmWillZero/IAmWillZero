@@ -83,30 +83,14 @@
   &emsp;
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
-    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm%20-%23000000.svg?style=plastic&logo=pycharm&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.jetbrains.com/clion/" target="_blank"> 
-    <img alt="CLion" src="https://img.shields.io/badge/CLion%20-%23000000.svg?style=plastic&logo=clion&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.sublimetext.com/" target="_blank"> 
-    <img alt="Sublime Text" src="https://img.shields.io/badge/Sublime%20Text%20-%23FF9800.svg?style=plastic&logo=sublime-text&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://jupyter.org/" target="_blank"> 
-    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white">
-  </a> 
+  </a>  
 </p>
 
 ## 📊 Mis Estadísticas
 <details>
   <summary><b>:zap: Github Stats</b></summary>
 
-  <img align="left" alt="Ahmed's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&hide_border=true&theme=radical" />
+  <img align="left" alt="IAmWillZero GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IAmWillZero&show_icons=true&hide_border=true&theme=radical" />
 
 </details>
 
