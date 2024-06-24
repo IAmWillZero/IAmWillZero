@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola! Soy Williams <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software+@bld.ai;Estudiante+de+Ciencias+de+la+Computación;Programador+Competitivo;Finalista+2x+ACPC;Experto+en+Codeforces;División+1+en+Codechef+(5+Estrellas);4+Kyu+en+Atcoder;Siempre+aprendiendo+nuevas+cosas"></a>
+  <a href="https://github.com/IAmWillZero"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Software+@Will.ai;Programador+Competitivo;Siempre+aprendiendo+nuevas+cosas"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Vistas%20de%20perfil&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=IAmWillZero&label=Vistas%20de%20perfil&color=0047AB&style=plastic?" alt="IAmWillZero" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Usuarios más activos" target="_blank" height=25px, width=250px/> 
