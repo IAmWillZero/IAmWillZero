@@ -73,7 +73,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Tools.gif?raw=true" width = 50px>  </picture> Herramientas
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Herramientas
 
 <p align="center"> 
   &emsp;
