@@ -73,19 +73,38 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Herramientas
+### <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width=50px> </picture> Herramientas
 
-<p align="center"> 
+<p align="center">
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  </a> 
+  
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
+  </a>
   &emsp;
-  <a href="https://code.visualstudio.com/" target="_blank"> 
-    <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code%20-%23007ACC.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  </a>  
-</p>
-
+  
+  <!-- GitHub -->
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
+  </a>
+  &emsp;
+  
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
+  </a>
+  &emsp;
+  
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white">
+  </a>
+  &emsp;
 ## 📊 Mis Estadísticas
 <details>
   <summary><b>:zap: Github Stats</b></summary>
